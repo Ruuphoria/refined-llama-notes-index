@@ -1,3 +1,5 @@
 # Resources
 
-- <a href="https://github.com/jerryjli
+- <a href="https://github.com/jerryjliu/llama_index">Github repo</a>
+
+- <a href=
