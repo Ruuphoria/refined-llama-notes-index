@@ -4,3 +4,4 @@
 
 - <a href="https://gpt-index.readthedocs.io/en/latest/">Docs</a>
 
+- <a href="https://huggingface.co/llamai
