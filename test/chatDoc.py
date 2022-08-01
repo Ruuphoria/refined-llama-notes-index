@@ -6,4 +6,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from llama_index import (
- 
+    SimpleDirectoryReader,
+    node_parser,
+    Vector
