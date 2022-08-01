@@ -2,4 +2,8 @@
 # -*- coding: utf-8 -*-
 
 # Env Variables
-from dotenv
+from dotenv import load_dotenv
+load_dotenv()
+
+from llama_index import (
+ 
