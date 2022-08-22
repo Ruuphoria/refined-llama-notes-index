@@ -12,4 +12,5 @@ from llama_index import (
     ServiceContext
 )
 
-# configuri
+# configuring LLM
+from llama_index.llm_predicto
