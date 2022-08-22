@@ -8,4 +8,8 @@ load_dotenv()
 from llama_index import (
     SimpleDirectoryReader,
     node_parser,
-    Vector
+    VectorStoreIndex,
+    ServiceContext
+)
+
+# configuri
