@@ -27,4 +27,4 @@ HuggingFaceLLMPredictor(
 ) 
 
 # main
-d
+documents = SimpleDirectoryReader('../data').loa
