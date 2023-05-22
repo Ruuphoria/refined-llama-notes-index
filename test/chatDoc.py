@@ -32,4 +32,6 @@ parser = node_parser.SimpleNodeParser()
 nodes = parser.get_nodes_from_documents(documents=documents)
 index = VectorStoreIndex(
     nodes=nodes,
-    service_contex
+    service_context=service_context
+)
+query_engine = index.as_query_engin
